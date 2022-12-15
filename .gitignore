@@ -1,0 +1,14 @@
+.pytest_cache
+*.log
+src/.hypothesis
+src/tests/__pycache__
+src/tests/*.pyc
+src/*.pyc
+.coverage
+.hypothesis
+report.html
+assets
+report
+.DS_Store
+img/*.png
+.env
